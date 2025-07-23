@@ -96,8 +96,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/REPO_NAME_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/REPO_NAME_2)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=LXZrivendell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -130,7 +130,7 @@
   
 ### 💫 "Code is poetry, AI is the future, and together we build tomorrow."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=LXZrivendell&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=FFFFFF&animation=twinkling" />
 
