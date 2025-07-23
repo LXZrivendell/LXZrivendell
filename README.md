@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=LXZrivendell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LXZrivendell&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LXZrivendell&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 ## 🧠 Code Matrix
@@ -135,7 +135,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=FFFFFF&animation=twinkling" />
 
 </div>
-
 <!--
 **LXZrivendell/LXZrivendell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
