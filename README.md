@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./K-ON!!.jpg" alt="K-ON!! Header Banner" width="100%" style="max-width: 1200px; height: auto; border-radius: 10px;" />
+</div>
+
+<div align="center">
   
 # 🚀 Welcome to My Digital Universe
 
