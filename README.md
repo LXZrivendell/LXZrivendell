@@ -96,8 +96,9 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/lxz_rCore_24S
+)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/ai-sec-eval-pltf)
 
 </div>
 
