@@ -6,20 +6,20 @@
   
 # 🚀 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Engineer;Deep+Learning+Researcher;Open+Source+Contributor;Building+the+Future+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Engineer;Deep+Learning+Researcher;Open+Source+Contributor;Building+the+Future+with+Code" alt="Typing SVG" />
 
 ---
 
 ## 🌌 Neural Network Status
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LXZrivendell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXZrivendell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LXZrivendell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF91A4&icon_color=FF91A4&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXZrivendell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🧠 Code Matrix
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXZrivendell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXZrivendell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=FFFFFF" alt="Top Languages" />
 
 ---
 
@@ -58,7 +58,7 @@
 <div align="center">
   
 ### 🔥 Contribution Heatmap
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LXZrivendell&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LXZrivendell&theme=tokyo-night&bg_color=0D1117&color=FF91A4&line=FF91A4&point=FFFFFF&area=true&hide_border=true)
 
 ### ⚡ Dynamic Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LXZrivendell&theme=tokyonight" alt="Profile Summary" />
@@ -100,9 +100,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/lxz_rCore_24S
-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/LXZrivendell/ai-sec-eval-pltf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=lxz_rCore_24S&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=FFFFFF)](https://github.com/LXZrivendell/lxz_rCore_24S)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LXZrivendell&repo=ai-sec-eval-pltf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF91A4&text_color=FFFFFF)](https://github.com/LXZrivendell/ai-sec-eval-pltf)
 
 </div>
 
@@ -135,8 +134,18 @@
   
 ### 💫 "Code is poetry, AI is the future, and together we build tomorrow."
 
-<img src="https://komarev.com/ghpvc/?username=LXZrivendell&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=LXZrivendell&label=Profile%20Views&color=FF91A4&style=flat-square" alt="Profile Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=FFFFFF&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 Thanks for visiting my profile! 🎵
+
+<img src="./kon!.png" alt="kon! Footer Banner" width="100%" style="max-width: 1200px; height: auto; border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 145, 164, 0.3); margin: 20px 0;" />
+
+<p style="font-style: italic; color: #FF91A4; margin-top: 15px;">"Music is the universal language of mankind" 🎸</p>
 
 </div>
